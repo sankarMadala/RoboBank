@@ -32,7 +32,7 @@
     "rxjs": "6.0.0",
     "rxjs-compat": "6.1.0",
     "zone.js": "^0.8.26",
-    "jquery": "^2.0.41"
+    "jquery": "^3.5.0"
   },
   "engines": {
     "node": "8.11.2",
